@@ -1,3 +1,5 @@
 # OneTap V3 Clantag Changer
-### Created with intended use being personal.
-### Use as is allowed reference, please credit in code or elsewhere.
+
+### Feel free to use this for OTC or as reference for making an updated one, credit if you want.
+
+*Code may be sloppy, this was intended as being used by only me.*
